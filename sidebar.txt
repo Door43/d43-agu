@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agu:home|Door43 (agu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agu|d43-agu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agu/archive/master.zip|d43-agu.zip]]
+
+**Recent Changes**
+{{changes>ns = agu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agu|Ethnologue data]]
+
